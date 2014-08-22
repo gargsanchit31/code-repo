@@ -5,7 +5,7 @@ code-repo is my repository in which I have started my coding practices mainly fr
 	- [SPOJ]
 	
 	
-[codechef]:http://codechef.com
-[SPOJ]:http://spoj.com
+*[codechef]:http://codechef.com
+*[SPOJ]:http://spoj.com
 
 	
